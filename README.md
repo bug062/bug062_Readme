@@ -1,4 +1,4 @@
 # Servuz
 
-![show](images/show.png)
+![show](/images/show.png)
 

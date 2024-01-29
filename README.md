@@ -2,6 +2,7 @@
 
 Mein Name ist Hase ich weiß von nichts 
 
+Stift und so
 <!--
 **bug062/bug062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
